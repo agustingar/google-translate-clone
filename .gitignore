@@ -15,7 +15,7 @@ lerna-debug.log*
 .env.production.local
 .env
 /.env
-
+CI = false
 node_modules
 dist
 dist-ssr
